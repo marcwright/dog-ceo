@@ -1,6 +1,6 @@
 ## Dog App
 
-![](./src/assets/dog-api.png)
+![](./assets/dog-api.png)
 
 - [Dog API](https://dog.ceo/dog-api/)
 
